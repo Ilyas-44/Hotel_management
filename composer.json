@@ -1,0 +1,16 @@
+{
+    "name": "ilyaselalaouisaleh/mongodbphp",
+    "autoload": {
+        "psr-4": {
+            "Ilyaselalaouisaleh\\Mongodbphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ilyas"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.15"
+    }
+}
